@@ -1,3 +1,9 @@
+This is a patched browserify to [support glob](https://github.com/substack/node-browserify/pull/1205).
+
+```
+npm install bcx-browserify
+```
+
 # browserify
 
 `require('modules')` in the browser

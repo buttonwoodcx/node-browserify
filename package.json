@@ -1,5 +1,5 @@
 {
-  "name": "browserify",
+  "name": "bcx-browserify",
   "version": "14.4.0",
   "description": "browser-side require() the node way",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/substack/node-browserify.git"
+    "url": "http://github.com/buttonwoodcx/node-browserify.git"
   },
   "keywords": [
     "browser",
